@@ -3,3 +3,4 @@
 Hello world
 Life is beautiful
 Think Positive
+Will practice everyday
