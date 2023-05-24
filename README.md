@@ -1,1 +1,1 @@
-# Aromatase
+# Bioinformatics Project - Computational Drug Discovery
